@@ -1,0 +1,57 @@
+body 
+{
+	background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    border-style: hidden;
+}
+section{
+    border-style: hidden;
+    border-width: 2mm;
+    border-radius: 8px;
+}
+img{
+    width: 55mm;
+    height: 65mm;
+}
+
+.personal{
+    background-color: grey;
+    color: gold;
+    display: block;
+    width: auto;
+    height: auto;
+}
+.skills{
+    background-color: grey;
+    color: khaki;
+    line-height: 3.5rem;
+}
+.experiences{
+    background-color: green;
+    color: orangered;
+    line-height: 3.5rem;
+}
+.projects{
+    background-color: khaki;
+}
+a{
+    background-color: rgb(23, 68, 23);
+    color: goldenrod;
+    border-style: groove;
+    border-width: 1mm;
+    border-radius: 8px;
+    padding: 10px;
+}
+.img{
+    display: block;
+    background-color: khaki;
+    border-style: hidden;
+}
+footer{
+    background-color: darkgreen;
+    color: gold;
+     border-style: groove;
+    border-width: 2mm;
+    border-radius: 8px;
+}
